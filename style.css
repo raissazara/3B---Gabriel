@@ -83,12 +83,19 @@ contador. Nosso código ficará como mostrado a seguir em cadao objetivo. Então
     .botoes {
         textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);      display: flex;
     }
-
+    const contadores = document.querySelectorAll(“.contador”);
+    const tempoObjetivo1 = new Date(“2024-10-05”);const contadores = document.querySelectorAll(“.contador”);
+const tempoObjetivo1 = new Date(“2024-10-05”);const contadores = document.querySelectorAll(“.contadocconst contadores = document.querySeltadores = document.querySelectorA(“.contado
     .botao:first-child {
         border-radius: 40px 0 0 0;
     }
+}const contadores = document.querySelectorAll(“.contador”)
+const tempoObjetivo1 = new Date(“2023-10-05T00:00:00”);
+let tempoAtual = new Date();const contadores = document.querySelectorAll(“.contador”)
+const tempoObjetivo1 = new Da
+
     textos[i].classList.add(“ativo”);textos[i].classList.add(“ativo”);textos[i].classList.add(“ativo”);textos[i].classList.add(“ativo”);textos[i].classList.add(“ativo”);textos[i].classList.add(“ativo”);textos[i].classList.add(“ativo”);textos[i].classList.add(“ativo”);textos[i].classList.add(“ativo”);textos[i].classList.add(“ativo”);textos[i].classList.add(“ativo”);
     .botao:last-child {
         border-radius: 0 40px 0 0;
-    }
+    }url(style.css)url(style.css)url(style.css)url(style.css)url(style.css)url(style.css)url(style.css)url(style.css)contadores[0].textContent = “Contagemcontadores[0].textContent = “Contagemcontadores[0].textContent = “Contagemcontadores[0].textContent = “Contagem
 }textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);textos[j].classList.remove(“ativo”);
